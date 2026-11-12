@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hola, soy Danilo Serrano 👋
 
-<!--
-**Danilo-Serrano/Danilo-Serrano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudiante de la Tecnicatura en Programación (UTN) y desarrollador full stack en formación, de Mendoza, Argentina.
 
-Here are some ideas to get you started:
+## Stack
+**Frontend:** React, JavaScript, HTML, CSS
+**Backend / datos:** Firebase (Firestore, Auth, Cloud Functions), Java, SQL, Python
+**Herramientas:** Git, GitHub, Vite, Vercel
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Proyectos destacados
+- 🛍️ **[MendoShop](https://github.com/Danilo-Serrano/SerranoDaniloReact)**: e-commerce con React, Firebase y Mercado Pago, con panel de admin. [Ver demo](https://serrano-danilo-react.vercel.app)
+- 📦 **[Gestor de Stock](https://github.com/Danilo-Serrano/Gestor-de-Stock-JAVA-SQL)**: gestión de inventario con Java y SQL.
+
+## Contacto
+- LinkedIn: (https://www.linkedin.com/in/daniloserrano/)
+
